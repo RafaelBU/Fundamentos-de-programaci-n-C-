@@ -1,0 +1,6 @@
+Este juego se juega entre dos jugadores
+El primer jugador lanza un dado sobre la mesa y anota la puntuacion de la cara superior en un contador
+El segundo jugador voltea el dado sobre una de las aristas de la cara inferior, de manera que queda en la cara superior una de las que estaban en un lateral y suma la puntuacion de esta cara a la anotada inicialmente en el contador
+Los jugadores continuan volteando el dado alternativamente y sumando la puntuacion de la cara superior en el marcador
+Pierde el primero que eleva la suma a 50 o mas puntos. 
+XXX
